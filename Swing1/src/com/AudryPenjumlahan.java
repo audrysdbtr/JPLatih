@@ -7,7 +7,7 @@ package com;
 
 /**
  *
- * @author Dzoel
+ * @author AudrySdbtr
  */
 public class AudryPenjumlahan extends javax.swing.JFrame {
 
